@@ -28,9 +28,9 @@ body {
   }
   
   .fundo {
-    width: 264px;
-    height:360px;
-    background-image: url('https://www..png');
+    width: 640px;
+    height:1024px;
+    background-image: url('Background2.jpg');
     margin: 0 auto;
     position: relative;
   }

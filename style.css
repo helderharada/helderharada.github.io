@@ -36,13 +36,13 @@ body {
   }
   h1{
     font-size:16px;
-    font-color:#CCFFE5;
+    color:#CCFFE5;
     font-weight:bold;
     top: 142px;
     left: calc(50% - 72.5px);
     width: 145px;
     text-align:center;
-    color:#FFD700
+    
   }
   
   h2 {

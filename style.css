@@ -39,6 +39,9 @@ body {
     color:#E5FFCC;
     font-weight:bold;
     text-align:center;
+    top: 142px;
+    left: calc(50% - 72.5px);
+    width: 145px;
     
   }
   

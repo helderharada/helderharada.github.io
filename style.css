@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono',monospace;
     min-height: 854px;
-    background-image: url('Background2.jpg');
+    background-image: url('background2.jpg');
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;

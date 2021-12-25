@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto Mono',monospace;
-    min-height: 854px;
+    min-height: 750px;
+    max=height: 900px;
     background-image: url('https://github.com/helderharada/helderharada.github.io/blob/ac91e03fa24234e0f40d87e53770ff8c588986d1/Background.png?raw=true');
     background-size: cover;
     background-position: center;

@@ -39,13 +39,12 @@ body {
     color:#E5FFCC;
     font-weight:bold;
     top: 142px;
-    left: calc(50% - 72.5px);
     width: 145px;
     text-align:center;
     
   }
   
-  h2 {
+  //h2 {
     position: absolute;
     font-size:12px;
     font-weight:bold;
@@ -54,7 +53,7 @@ body {
     width: 145px;
     text-align:center;
     color:#FFD700
-  }
+  }//
   
   .helderharada-logo {
     width: 40px;

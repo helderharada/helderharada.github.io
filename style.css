@@ -34,6 +34,15 @@ body {
     margin: 0 auto;
     position: relative;
   }
+  h1{
+    font-size:16px;
+    font-weight:bold;
+    top: 142px;
+    left: calc(50% - 72.5px);
+    width: 145px;
+    text-align:center;
+    color:#FFD700
+  }
   
   h2 {
     position: absolute;
